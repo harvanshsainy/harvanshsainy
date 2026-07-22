@@ -11,11 +11,11 @@ Experienced Full Stack Developer with **8+ years** of experience building scalab
 ### Backend
 - Node.js
 - Express.js
-- PHP (Laravel, CodeIgniter)
 - REST APIs
 - JWT Authentication
 - Redis
 - WebSockets
+- PHP (Laravel, CodeIgniter)
 
 ### Frontend
 - Angular (Latest Versions)
