@@ -25,8 +25,6 @@ Experienced Full Stack Developer with **8+ years** of experience building scalab
 - HTML5
 - CSS3
 - Bootstrap
-- Angular Material
-- Tailwind CSS
 
 ### Database
 - MongoDB
@@ -45,8 +43,6 @@ Experienced Full Stack Developer with **8+ years** of experience building scalab
 - Postman
 - VS Code
 - Jira
-- Figma
-- Webpack
 
 ---
 
