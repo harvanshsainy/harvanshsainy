@@ -104,23 +104,6 @@ Experienced Full Stack Developer with **8+ years** of experience building scalab
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harvanshsainy&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harvanshsainy&layout=compact&theme=github_dark)
-
----
-
-## 🌱 Currently Learning
-
-- AWS Services
-- System Design
-- Microservices Architecture
-- CI/CD Pipelines
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/harvansh-sainy
