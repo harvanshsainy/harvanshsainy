@@ -106,9 +106,9 @@ Experienced Full Stack Developer with **8+ years** of experience building scalab
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harvanshsainy&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harvanshsainy&layout=compact&theme=github_dark)
 
 ---
 
@@ -123,9 +123,8 @@ Experienced Full Stack Developer with **8+ years** of experience building scalab
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🌐 Portfolio: https://yourportfolio.com
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/harvansh-sainy
+- 📧 Email: harvanshsainy265@gmail.com
 
 ---
 
